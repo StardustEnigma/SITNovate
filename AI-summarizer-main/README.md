@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 IntelDoc
 
 AI Summarizer For Any Help Yuu Need!!
 ## 📦 Dependencies
